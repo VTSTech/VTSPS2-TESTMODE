@@ -1,0 +1,2 @@
+# VTSPS2-TESTMODE
+rom0:TESTMODE Launcher
